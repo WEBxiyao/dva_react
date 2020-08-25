@@ -1,2 +1,2 @@
-# dva_react
-学习dva的练习代码
+npm install --save redux-actions
+安装这个第3方库可以更好的去管理redux
